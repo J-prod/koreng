@@ -1,0 +1,2 @@
+# koreng
+KORean to ENGglish Twitter bot to aid your Korean learning *~*  fun fact: Ko-re means whale in Korean ///🐋🐋🐋 | This individual project started with the PFCH Course at Pratt Institute. Techniques include web scraping, dictionary cleaning, Tweepy, Twitter API, and Amazon AWS Lambda. With a surprising lack of beginner-friendly, non-grammar-centered resources for Korean-English vocabulary and phrase learning, I decided to center my project around creating a bot that would Tweet a random Korean phrase/word once a week. 
