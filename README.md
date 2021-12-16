@@ -13,7 +13,7 @@ The repository consists of four files:
 
 1) korword.py: This python file uses BeautifulSoup to web scape wp-block-table elements and store into Python dictionary from first source
 
-2) Test_ling.py: This python file uses Beautiful Soup to web scrape wp-block-table elements and store into Python dictionary from second source
+2) ling.py: This python file uses Beautiful Soup to web scrape wp-block-table elements and store into Python dictionary from second source
 
 3) finaldic.py: This python file combines the webscraped dictionaries (.json files) into ONE dataset and cleans up the data for anomalies such as repeated lines, removing scraping of word 'play' from the second source, and inconsistent headers
 
